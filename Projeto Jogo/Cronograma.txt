@@ -1,0 +1,8 @@
+1 - Pré-Projeto
+2 - Pré-Produção
+3 - Plano de Produção
+4 - Criação de Jogabilidade
+5 - Criação de Fases
+6 - Integralização da Arte
+7 - Integralização de Som
+8 - Testes e Mudanças
